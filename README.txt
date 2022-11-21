@@ -12,4 +12,5 @@ Task:
 - To combine drones actions, combat drone - can scout with action find target
 (it is finding target to shoot it, and scout drone just scouting, but combat drone also can scout)
 
-
+Diagram classes is in repo img
+All Classes are in source repo
